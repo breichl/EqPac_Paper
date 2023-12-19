@@ -1,0 +1,3 @@
+[submodule "EqPac_SCM"]
+	path = EqPac_SCM
+	url = git@github.com:breichl/EqPac_SCM.git
